@@ -477,11 +477,9 @@ Es un entorno de modelado de código abierto que admite UML y BPMN, ofreciendo f
 Es una herramienta UML multiplataforma con una interfaz intuitiva, que soporta una amplia variedad de diagramas (incluyendo SysML) y se destaca por su capacidad de extensibilidad y facilidad de uso.<br>
 ![alt text](img/staruml_logo.png)
 ![captura de pantalla](img/maxresdefault.jpg)
-
-
 * UMLet:
 Es un editor UML ligero y de código abierto, diseñado para crear diagramas de manera rápida y sencilla a través de una interfaz minimalista y basada en texto.
-
+![captura de pantalla](img/image.png)
 * diagrams.net:
 Anteriormente conocido como draw.io, es un editor de diagramas en línea gratuito que permite elaborar diagramas UML y de otros tipos mediante una intuitiva interfaz de arrastrar y soltar.
 
