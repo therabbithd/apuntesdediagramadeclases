@@ -462,8 +462,33 @@ public class MiClase {
         // Lógica del método estático
     }
 }
-
 ```
+## Herramientas para hacer diagramas
+* MagicDraw:
+Es una herramienta avanzada de modelado UML que permite crear diagramas estructurados y de comportamiento, facilitando la colaboración en equipos y la integración con procesos de ingeniería de software.
+
+* Visual Paradigm:
+Es una completa plataforma de modelado visual que soporta UML, BPMN y otros tipos de diagramas, ideal para el análisis, diseño y gestión de procesos empresariales.
+
+* Modelio:
+Es un entorno de modelado de código abierto que admite UML y BPMN, ofreciendo flexibilidad para personalizar y gestionar proyectos de software con herramientas adicionales para documentación y extensibilidad.
+
+* StarUML:
+Es una herramienta UML multiplataforma con una interfaz intuitiva, que soporta una amplia variedad de diagramas (incluyendo SysML) y se destaca por su capacidad de extensibilidad y facilidad de uso.
+
+* UMLet:
+Es un editor UML ligero y de código abierto, diseñado para crear diagramas de manera rápida y sencilla a través de una interfaz minimalista y basada en texto.
+
+* diagrams.net:
+Anteriormente conocido como draw.io, es un editor de diagramas en línea gratuito que permite elaborar diagramas UML y de otros tipos mediante una intuitiva interfaz de arrastrar y soltar.
+
+
+
+
+
+
+
+
 
 
   
