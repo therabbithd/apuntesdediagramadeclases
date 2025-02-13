@@ -474,7 +474,10 @@ Es una completa plataforma de modelado visual que soporta UML, BPMN y otros tipo
 Es un entorno de modelado de código abierto que admite UML y BPMN, ofreciendo flexibilidad para personalizar y gestionar proyectos de software con herramientas adicionales para documentación y extensibilidad.
 
 * StarUML:
-Es una herramienta UML multiplataforma con una interfaz intuitiva, que soporta una amplia variedad de diagramas (incluyendo SysML) y se destaca por su capacidad de extensibilidad y facilidad de uso.
+Es una herramienta UML multiplataforma con una interfaz intuitiva, que soporta una amplia variedad de diagramas (incluyendo SysML) y se destaca por su capacidad de extensibilidad y facilidad de uso.<br>
+![alt text](img/staruml_logo.png)
+![captura de pantalla](img/maxresdefault.jpg)
+
 
 * UMLet:
 Es un editor UML ligero y de código abierto, diseñado para crear diagramas de manera rápida y sencilla a través de una interfaz minimalista y basada en texto.
