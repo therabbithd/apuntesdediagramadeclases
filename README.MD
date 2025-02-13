@@ -434,6 +434,17 @@ public class Main {
         miGato.dormir();
     }
 }
+```
+## Atributos y métodos estáticos.
+se indica con un subrrayado son atributos que no se reiniciaran atraves de los objetos:
+```mermaid
+    classDiagram
+    class MiClase {
+        +atributoInstancia: int
+        -atributoEstatico: int$
+        -metodoInstancia(): void
+        +metodoEstatico(): void$
+  }
 
 ```
 
