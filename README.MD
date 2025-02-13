@@ -437,6 +437,7 @@ public class Main {
 ```
 ## Atributos y métodos estáticos.
 se indica con un subrrayado son atributos que no se reiniciaran atraves de los objetos:
+en diagrama:
 ```mermaid
     classDiagram
     class MiClase {
@@ -447,5 +448,22 @@ se indica con un subrrayado son atributos que no se reiniciaran atraves de los o
   }
 
 ```
+en java:
+```java
+public class MiClase {
+    public int atributoInstancia;
+    public static int atributoEstatico;
+    public void metodoInstancia() {
+        // Lógica del método de instancia
+    }
+    
+    // Método estático
+    public static void metodoEstatico() {
+        // Lógica del método estático
+    }
+}
+
+```
+
 
   
